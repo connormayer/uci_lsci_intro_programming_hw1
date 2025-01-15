@@ -3,11 +3,13 @@
 # {'a', 'e', 'i', 'o', 'u'} (but not 'y'). For example, the input 'hello' 
 # should print '2' (or whatever message you want to print containing that 
 # number).
+#
+# Your code should work with both upper and lowercase characters.
 
 def vowel_counter():
-	# YOUR CODE GOES HERE
-	# You can delete the line below when you start adding code
-	pass
+    # YOUR CODE GOES HERE
+    # You can delete the line below when you start adding code
+    pass
 
 if __name__ == "__main__":
-	vowel_counter()
+    vowel_counter()
